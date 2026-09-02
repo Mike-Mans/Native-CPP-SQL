@@ -1,4 +1,4 @@
-# SQL-CS008-Final-Project
+# Native C++ SQL
 
 # Overview / Supported Commands
 ### Select (Query from an existing table):
